@@ -12,6 +12,7 @@
   },
   "license": "MIT-0",
   "dependencies": {
+    "aws-elastic-beanstalk-express-js-sample": "file:",
     "express": "^4.17.3"
   }
 }
